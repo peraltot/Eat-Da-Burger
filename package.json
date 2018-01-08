@@ -1,10 +1,9 @@
 {
-  "name": "eat-da-burger-3",
+  "name": "eat-da-burger",
   "version": "1.0.0",
   "description": "Define and eat the burger",
-  "main": "server.js",
+  "main": "index.hbs",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1",
     "start": "node server.js"
   },
   "repository": {
