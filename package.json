@@ -1,0 +1,27 @@
+{
+  "name": "eat-da-burger-3",
+  "version": "1.0.0",
+  "description": "Define and eat the burger",
+  "main": "server.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "start": "node server.js"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/peraltot/Eat-Da-Burger-3.git"
+  },
+  "author": "Tom P",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/peraltot/Eat-Da-Burger-3/issues"
+  },
+  "homepage": "https://github.com/peraltot/Eat-Da-Burger-3#readme",
+  "dependencies": {
+    "body-parser": "^1.18.2",
+    "express": "^4.16.2",
+    "method-override": "^2.3.10",
+    "my-sql": "^1.2.9",
+    "path": "^0.12.7"
+  }
+}
